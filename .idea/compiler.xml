@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="OOP3200-F2021-ICE12" target="17" />
+      <module name="OOP3200-F2021-ICE12" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
